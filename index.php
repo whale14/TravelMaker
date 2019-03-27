@@ -257,7 +257,7 @@
           <div class="single-testimonial item d-flex flex-row">
             <div class="card_container">
               <div class="card card2">
-                <h2>Koreana</h2>
+                <h2>Korean air</h2>
                 <i class="card_arrow fa fa-arrow-right"></i>
                 <p>대한 항공</p>
                 <div class="pic"></div>
