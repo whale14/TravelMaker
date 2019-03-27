@@ -257,7 +257,7 @@
           <div class="single-testimonial item d-flex flex-row">
             <div class="card_container">
               <div class="card card2">
-                <h2>Korean</h2>
+                <h2>Koreana</h2>
                 <i class="card_arrow fa fa-arrow-right"></i>
                 <p>대한 항공</p>
                 <div class="pic"></div>
@@ -482,9 +482,8 @@
   <!-- End home-about Area -->
 
 <!-- Todo: 마지막 하단 레이아웃 정리 -->
-  <!-- Start blog Area -->
-<!--  
-   <section class="recent-blog-area section-gap">
+<!--   Start blog Area -->
+  <!-- <section class="recent-blog-area section-gap">
     <div class="container">
       <div class="row d-flex justify-content-center">
         <div class="menu-content pb-60 col-lg-9">
@@ -644,8 +643,7 @@
         </div>
       </div>
     </div>
-  </section> 
--->
+  </section> -->
   <!-- End recent-blog Area -->
 
   <!-- start footer Area -->
